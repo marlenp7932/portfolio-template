@@ -3,6 +3,7 @@ html, body {
 }
 
 .navbar {
+    font: Roboto Mono;
     padding-top: 15px;
     padding-bottom: 15px;
     border: 0;
